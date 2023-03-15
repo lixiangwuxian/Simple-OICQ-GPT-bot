@@ -1,0 +1,15 @@
+{
+  "name": "lixiangwuxian_qq_bot",
+  "version": "1.0.0",
+  "description": "nodejs_qq_bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "bot": "node bot.js"
+  },
+  "author": "lixiangwuxian",
+  "license": "MIT",
+  "dependencies": {
+    "oicq-icalingua-plus-plus": "github:Icalingua-plus-plus/oicq-icalingua-plus-plus"
+  }
+}
